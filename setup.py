@@ -12,12 +12,12 @@ setup(
             'library-manager = personal_library_manager.cli:main_menu',
         ],
     },
-    author="Your Name",
-    author_email="your_email@example.com",
+    author="Muhammad waheed",
+    author_email="wm0297567@gmail.com",
     description="A CLI app to manage your personal book collection",
     long_description=open('README.md', encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/personal-library-manager",  # Change to your repo URL
+    url="https://github.com/muhammadwaheedairi/personal-library-manager.git",  # Change to your repo URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
